@@ -23,7 +23,7 @@ public class Main {
         System.out.println("|         3.Lista Circular        |");
         boolean salir=false;
         while(salir==false) {
-            System.out.println("Escoja una opcion: 1");
+            System.out.println("Escoja una opcion: ");
             opcionMenu=teclado.nextInt();
             switch (opcionMenu) {
                 case 1:
